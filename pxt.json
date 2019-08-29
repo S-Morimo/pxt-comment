@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pxt-comment": "workspace:81c5833b-9553-4617-d531-4f0175582390"
     },
     "files": [
         "README.md",
@@ -14,5 +15,6 @@
         "test.ts"
     ],
     "public": false,
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:81c5833b-9553-4617-d531-4f0175582390"
 }
